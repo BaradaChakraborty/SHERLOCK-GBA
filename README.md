@@ -39,3 +39,6 @@ This project utilizes the `renv` package manager to guarantee 100% computational
 2. Open the `SHERLOCK-GBA.Rproj` file in RStudio.
 3. Run `renv::restore()` in the R console to install the exact dependency versions.
 4. Execute `scripts/01_gRNA_Design.R` and `scripts/02_GBA_Correlation.R` in sequential order.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
